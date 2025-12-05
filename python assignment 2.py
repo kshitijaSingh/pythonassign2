@@ -3,7 +3,7 @@
 number = int(input("enter your number :"))
 if number % 2 ==  0 :
     print(f"{number} is a even number")
-elif number % 2 != 0 :
+else number % 2 != 0 :
     print(f"{number} is a odd number")
 
 # task 2
